@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shakhzod</h1>
 <h3 align="center">Frontend Web & Mobile Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolioshakhzod2024.web.app/](https://portfolioshakhzod2024.web.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://shakhzodyuldashev.web.app/)
 
 - 📫 How to reach me **shakyuldashev@gmail.com**
 
-- 📄 Know about my experiences [https://portfolioshakhzod2024.web.app/static/media/Shakhzod_Yuldashev_Resume.a4c1dfee30390134d012.pdf](https://portfolioshakhzod2024.web.app/static/media/Shakhzod_Yuldashev_Resume.a4c1dfee30390134d012.pdf)
+- 📄 Know about my experiences through [my resume](https://shakhzodyuldashev.web.app/assets/Shakhzod_Yuldashev_CV-C6pT5Qhd.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
