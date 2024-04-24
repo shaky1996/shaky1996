@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Shakhzod (easier to call me Shak)</h1>
+<h1 align="center">Hi, I'm Shakhzod</h1>
+<p align='center'>easier to call me Shak :)</p>
+<hr />
 <h3 align="center">Front-End Web & Mobile Developer</h3>
 
-- 👨‍💻 All my projects are available at [my portfolio website](https://shakportfolio.web.app/)
+- 👨‍💻 All my projects are available at [my portfolio](https://shakportfolio.web.app/)
 
 - 💻 Check my [repositories](https://github.com/shaky1996?tab=repositories)
 
