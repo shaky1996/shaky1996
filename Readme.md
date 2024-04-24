@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shakhzod</h1>
-<h3 align="center">Frontend Web & Mobile Developer</h3>
+<h1 align="center">Hi, I'm Shakhzod (easier to call me Shak)</h1>
+<h3 align="center">Front-End Web & Mobile Developer</h3>
 
-- 👨‍💻 All my projects are available at [my portfolio website](https://shakhzodyuldashev.web.app/)
+- 👨‍💻 All my projects are available at [my portfolio website](https://shakportfolio.web.app/)
 
 - 💻 Check my [repositories](https://github.com/shaky1996?tab=repositories)
 
 - 📫 You can reach me at **shakyuldashev@gmail.com**
 
-- 📄 Know about my experiences through [my resume](https://shakhzodyuldashev.web.app/assets/Shakhzod_Yuldashev_CV-C6pT5Qhd.pdf)
+- 📄 Know about my experiences through [my resume]([https://shakhzodyuldashev.web.app/assets/Shakhzod_Yuldashev_CV-C6pT5Qhd.pdf](https://shakportfolio.web.app/static/media/Shakhzod_Yuldashev_Resume01.2f7847be14d93155aee4.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
