@@ -1,20 +1,66 @@
-<h1 align="center">Hi, I'm Shakhzod</h1>
-<p align='center'>easier to call me Shak :)</p>
-<hr />
-<h3 align="center">Front-End Web & Mobile Developer</h3>
+# Hi, I'm Shak
 
-- 👨‍💻 All my projects are available at [my portfolio](https://shakportfolio.web.app/)
+### Software Engineer
 
-- 💻 Check my [repositories](https://github.com/shaky1996?tab=repositories)
+---
 
-- 📫 You can reach me at **shakyuldashev@gmail.com**
+# 💻 Technical Skills
 
-- 📄 Know about my experiences through [my resume]([https://shakhzodyuldashev.web.app/assets/Shakhzod_Yuldashev_CV-C6pT5Qhd.pdf](https://shakportfolio.web.app/static/media/Shakhzod_Yuldashev_Resume01.2f7847be14d93155aee4.pdf))
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shakhzod yuldashev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhzod yuldashev" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+# ⚡ Frontend Development
+
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+---
+
+# 🔧 Backend & Databases
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![REST API](https://img.shields.io/badge/-REST%20APIs-000?style=for-the-badge&logo=fastapi)
+
+---
+
+# ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code)
+
+- Object-Oriented Programming (OOP)
+- Software Development Life Cycle (SDLC)
+- Cloud Fundamentals
+
+---
+
+# 🎓 Certifications & Training
+
+- AWS Certified Cloud Practitioner
+- CompTIA Project+
+- ITIL® 4 Foundation
+- WGU Front-End Developer
+- WGU Back-End Developer
+- Nucamp Full Stack Development
+- Nucamp Front-End Development
+
+---
+
+# 🌎 Connect
+
+- GitHub: https://github.com/shaky1996
+- Email: shakyuldashev@gmail.com
+
